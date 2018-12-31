@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-log-writer-firebug",
+    "name": "donkeyworks/zendframework1-log-writer-firebug",
     "description": "Zend Framework 1 Log_Writer_Firebug component",
     "type": "library",
     "keywords": [
@@ -12,8 +12,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-log": "^1.0.0",
-        "diablomedia/zendframework1-wildfire": "^1.0.0"
+        "donkeyworks/zendframework1-log": "^1.0.0",
+        "donkeyworks/zendframework1-wildfire": "^1.0.0"
     },
     "autoload": {
         "classmap": [
